@@ -1,0 +1,1 @@
+First financial operation and associated [risk management](https://en.wikipedia.org/wiki/Risk_management) software able to manage a huge volumetry of financial operations and multi-instruments, [CashRisk](http://www.datalog-finance.com/en/cashsolutions-range/financial-operation-risks/) is a huge productivity companion for Front, Middle and Back Office treasury teams.
